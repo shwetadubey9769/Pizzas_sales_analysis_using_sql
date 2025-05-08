@@ -52,4 +52,6 @@ Business-driven KPIs and performance metrics
 
 Query optimization using joins, aggregates, and filtering
 
+Name: shweta dubey Email: shwetadubey9769@gmail.com
+
 
